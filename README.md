@@ -15,8 +15,8 @@ I am a Computer Science student at SRMIST with a keen interest in Artificial Int
   - Expected Graduation: [Your Expected Graduation Date]
 
 ## Hobbies
-- Coding challenges, Open Source Contribution, and Technology Blogging.
+- Coding challenges,Continuous Self-Learner.
 
 ## Contact
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [thehimanshumahala@gmail.com]
+- LinkedIn: [www.linkedin.com/in/himanshumahala]
