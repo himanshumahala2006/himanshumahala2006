@@ -12,7 +12,7 @@ I am a Computer Science student at SRMIST with a keen interest in Artificial Int
 ## Education
 - **Bachelor of Technology in Computer Science**
   - SRM Institute of Science and Technology
-  - Expected Graduation: [Your Expected Graduation Date]
+  - Expected Graduation: [2029]
 
 ## Hobbies
 - Coding challenges,Continuous Self-Learner.
