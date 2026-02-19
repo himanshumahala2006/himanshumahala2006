@@ -1,16 +1,22 @@
-## Hi there 👋
+# Professional Profile
 
-<!--
-**himanshumahala2006/himanshumahala2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science student at SRMIST with a keen interest in Artificial Intelligence and Data Science. I am seeking an internship opportunity in AI/DS for Summer 2028.
 
-Here are some ideas to get you started:
+## Skills
+- **Artificial Intelligence**: Knowledge in AI frameworks and algorithms.
+- **Data Science**: Proficient in data analysis and visualization.
+- **Programming Languages**: Experienced in Python and Java.
+- **Full-Stack Development**: Understanding of both front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **Bachelor of Technology in Computer Science**
+  - SRM Institute of Science and Technology
+  - Expected Graduation: [Your Expected Graduation Date]
+
+## Hobbies
+- Coding challenges, Open Source Contribution, and Technology Blogging.
+
+## Contact
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
