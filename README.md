@@ -15,7 +15,7 @@ I am a Computer Science student at SRMIST with a keen interest in Artificial Int
   - Expected Graduation: [2029]
 
 ## Hobbies
-- Coding challenges,Continuous Self-Learner.
+- Coding Challenges, Continuous Self-Learner.
 
 ## Contact
 - Email: [thehimanshumahala@gmail.com]
