@@ -5,7 +5,7 @@ I am a Computer Science student at SRMIST with a keen interest in Artificial Int
 
 ## Skills
 - **Artificial Intelligence**: Knowledge in Responsible AI.
-- **Data Science**: Proficient in data analysis and visualization.
+- **Data Science**: Proficient in data analysis, visualization and scientists.
 - **Programming Languages**: Experienced in Python and Java.
 - **Full-Stack Development**: Understanding of both front-end and back-end technologies.
 
