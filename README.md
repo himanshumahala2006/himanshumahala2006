@@ -4,9 +4,9 @@
 I am a Computer Science student at SRMIST with a keen interest in Artificial Intelligence and Data Science. I am seeking an internship opportunity in AI/DS for Summer 2028.
 
 ## Skills
-- **Artificial Intelligence**: Knowledge in Responsible AI, Machine Learning, Generative AI.
+- **Artificial Intelligence**: Knowledge in Responsible AI, Machine Learning, Generative AI, Deep Learning, AI Engineering Stack.
 - **Programming Languages**: Experienced in Python and Java.
-- **Full-Stack Development**: Understanding of both front-end and back-end technologies.
+- **Full-Stack Development**: Experienced in building responsive interfaces and managing robust back-end systems.
 
 ## Education
 - **Bachelor of Technology in Computer Science**
