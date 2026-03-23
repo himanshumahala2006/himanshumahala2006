@@ -1,7 +1,7 @@
 # Professional Profile
 
 ## About Me
-I am a Computer Science student at SRMIST with a keen interest in Artificial Intelligence. I am seeking an internship opportunity in AI for Summer 2028.
+I am a Computer Science student at SRMIST and an aspiring AI Engineer. I am seeking an internship opportunity in AI for Summer 2028.
 
 ## Skills
 - **Artificial Intelligence**: Knowledge in Responsible AI, Machine Learning, Generative AI, Deep Learning, AI Engineering Stack.
